@@ -51,5 +51,5 @@ export default function createXmasTree(height) {
   
   return tree.join("\n")
 }
-console.log(createXmasTree(2))
+console.log(createXmasTree(5))
 
